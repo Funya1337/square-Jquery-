@@ -1,0 +1,11 @@
+.wrapper {
+  margin: 20px;
+}
+
+#div1 {
+  background: #2E9AFE;
+  height: 200px;
+  width: 200px;
+  /* Чтобы работало нужно position ставить relative, fixed или absolute */
+  position:relative;
+}
